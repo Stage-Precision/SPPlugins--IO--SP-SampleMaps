@@ -1,2 +1,1 @@
-# SP-Plugins--Sample-WithMaps
-Plugins for SP 
+Sample Plugin With use of BaseMaps
